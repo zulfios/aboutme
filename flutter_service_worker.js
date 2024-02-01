@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f27bda62d4e222b8738e354b09f9e0df",
-"index.html": "e5736435565cb800f24af5430b5df313",
-"/": "e5736435565cb800f24af5430b5df313",
-"main.dart.js": "483e18de1d6077fd00a64a1770c511d1",
+"index.html": "e9cd5039d212a6a3fb926390f4782919",
+"/": "e9cd5039d212a6a3fb926390f4782919",
+"main.dart.js": "84f2bb7a51cbb26fb1c4becc37ad3633",
 "favicon.png": "233e72c042ecf3e23216e73ce8e9fe46",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -16,7 +16,7 @@ const RESOURCES = {
 "assets/image_01.png": "a299c520f67de8b3642ff90f910ae81b",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/Montserrat-Bold.ttf": "a3b387c93882604792867736aecd56c8",
-"assets/NOTICES": "74a5bed8b0d964bf30fe1606ecdcdefe",
+"assets/NOTICES": "88c3b674d32cc0c5c4f6c0db8424dceb",
 "assets/menu.png": "24085b165cf07dbb15583b1fa0ea583d",
 "assets/FontManifest.json": "e03be0e0d5bdcda62663c880ce70045c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
