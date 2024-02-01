@@ -1,6 +1,6 @@
 {
-    "name": "about_me",
-    "short_name": "about_me",
+    "name": "aboutme",
+    "short_name": "aboutme",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
