@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f27bda62d4e222b8738e354b09f9e0df",
-"index.html": "1ef5d2a86aa7370c1238ac94f3f26714",
-"/": "1ef5d2a86aa7370c1238ac94f3f26714",
-"main.dart.js": "466101910141ee006905878efd9b904b",
+"index.html": "b8a951c198a2e735d6a1269951570d5e",
+"/": "b8a951c198a2e735d6a1269951570d5e",
+"main.dart.js": "5199489eae480809aefb5ea1e402d5c3",
 "flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "favicon.png": "233e72c042ecf3e23216e73ce8e9fe46",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -14,7 +14,6 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "ec88f91605a7e76299b2b3caab96b94a",
-"assets/image_01.png": "a299c520f67de8b3642ff90f910ae81b",
 "assets/image_01.jpg": "594e56271e5f7ec8fc7002940c3381c5",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/Montserrat-Bold.ttf": "a3b387c93882604792867736aecd56c8",
