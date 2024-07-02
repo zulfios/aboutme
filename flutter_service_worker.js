@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f27bda62d4e222b8738e354b09f9e0df",
-"index.html": "88d7ff39fd697e2a3ba9b47f0e8c9d36",
-"/": "88d7ff39fd697e2a3ba9b47f0e8c9d36",
-"main.dart.js": "5b1825dfe8dcf080ed1d8b84208fb550",
-"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
+"index.html": "93b1968e638a3b8a5d508ef9951f5a14",
+"/": "93b1968e638a3b8a5d508ef9951f5a14",
+"main.dart.js": "a70cdb1e41feb0aa01d9acceda77f090",
 "favicon.png": "233e72c042ecf3e23216e73ce8e9fe46",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -17,18 +16,14 @@ const RESOURCES = {
 "assets/image_01.jpg": "594e56271e5f7ec8fc7002940c3381c5",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/Montserrat-Bold.ttf": "a3b387c93882604792867736aecd56c8",
-"assets/NOTICES": "d95c6225613f3865dd08c6f67970d50b",
+"assets/NOTICES": "20b520b3df7344bf44876bd022af987a",
 "assets/menu.png": "24085b165cf07dbb15583b1fa0ea583d",
 "assets/FontManifest.json": "e03be0e0d5bdcda62663c880ce70045c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/sent.png": "a76dea49fba5b97bf9504db741d38356",
 "assets/Montserrat-Regular.ttf": "a8a117360e71de94ae3b0b0f8d15b44d",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
-"assets/hiraminpro-w3.otf": "3fabfe5faf69d7514122ef7c61d9e62c",
-"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
-"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
-"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
+"assets/hiraminpro-w3.otf": "3fabfe5faf69d7514122ef7c61d9e62c"
 };
 
 // The application shell files that are downloaded before a service worker can
