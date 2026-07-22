@@ -1,11 +1,11 @@
 {
-    "name": "aboutme",
-    "short_name": "aboutme",
-    "start_url": "/",
+    "name": "Zulfi | About Me",
+    "short_name": "About Me",
+    "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#0B1220",
+    "theme_color": "#0B1220",
+    "description": "Halaman about-me pribadi Zulfi, dibangun dengan Flutter Web.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
